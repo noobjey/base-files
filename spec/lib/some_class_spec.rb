@@ -5,7 +5,7 @@ describe SomeClass do
     it 'does this' do
       instance = SomeClass.new
 
-      expect(instance.some_method()).to eq(true)
+      expect(instance.some_method).to eq(true)
     end
   end
 end
