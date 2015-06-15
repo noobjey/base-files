@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
-gem 'guard-rspec'
-gem 'guard-rubocop'
+gem 'minitest'
+
 
 group :test, :development do
 end
